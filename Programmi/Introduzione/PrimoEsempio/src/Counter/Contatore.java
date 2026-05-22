@@ -1,4 +1,6 @@
-class Contatore {
+package Counter;
+
+public class Contatore {
 
 // stato composto da variabili
     private int val;
