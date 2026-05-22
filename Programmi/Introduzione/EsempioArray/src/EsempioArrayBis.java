@@ -1,4 +1,4 @@
-import Counter.*;
+import Pacchetto.*;
 
 public class EsempioArrayBis {
     public static void main(String args[]){

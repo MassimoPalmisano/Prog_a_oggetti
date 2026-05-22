@@ -1,4 +1,4 @@
-package Pacchetto;
+import Pacchetto.*;
 
 public class PrimoEsercizio {
 public static void main(String args[]){
